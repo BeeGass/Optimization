@@ -1,6 +1,6 @@
 <h1 align="center">
-  <b>Readable-Optimization</b><br> 
-  <b>Jax - Flux</b><br> 
+  <b>Optimization</b><br> 
+  <b>Jax - Julia</b><br> 
 </h1>
 
 <p align="center">
@@ -10,9 +10,9 @@
         <img src="https://img.shields.io/badge/Flux-v0.12.8-red" /></a>
        <a href= "https://github.com/google/jax">
         <img src="https://img.shields.io/badge/Jax-v0.1.75-yellow" /></a>
-       <a href= "https://github.com/BeeGass/Readable-Optimization/blob/main/LICENSE">
+       <a href= "https://github.com/BeeGass/Optimization/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/license-Apache2.0-blue.svg" /></a>
-         <a href= "http://twitter.com/intent/tweet?text=Readable-Optimization:%20A%20Collection%20Of%20Optimization%20Techniques%20Written%20In%20PyTorch%20And%20Jax%3A&url=https://github.com/BeeGass/Readable-Optimization">
+         <a href= "http://twitter.com/intent/tweet?text=Optimization:%20A%20Collection%20Of%20Optimization%20Techniques%20Written%20In%20Julia%20And%20Jax%3A&url=https://github.com/BeeGass/Optimization">
         <img src="https://img.shields.io/twitter/url/https/shields.io.svg?style=social" /></a>
 
 </p>
@@ -92,12 +92,12 @@ TBA
 
 ### Citation
 ```bib
-@software{B_Gass_Readable-Optimization_2022,
+@software{B_Gass_Optimization_2022,
 author = {B Gass, B Gass},
 doi = {10.5281/zenodo.1234},
 month = {1},
 title = {{Readable-Optimization}},
-url = {https://github.com/BeeGass/Readable-Optimization},
+url = {https://github.com/BeeGass/Optimization},
 version = {1.0.0},
 year = {2022}
 }
