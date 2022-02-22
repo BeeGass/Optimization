@@ -92,6 +92,7 @@ TBA
 | Truncated Newton                        | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
 | Fletcher-Reeves                         | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
 
+---
 ### Citation
 ```bib
 @software{B_Gass_Optimization_2022,
