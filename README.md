@@ -58,39 +58,40 @@ TBA
 </h2>
 
 
-| Model                                   | PyTorch | Jax/Flax |  Flux   | Config  | Paper    | Animations | Samples |
-|:--------------------------------------- |:-------:|:--------:|:-------:|:-------:|:-------- |:----------:|:-------:|
-| Gradient Descent                        | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| Stochastic Gradient Descent             | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| Batch Gradient Descent                  | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| Mini-Batch Gradient Descent             | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| SGD w/ Momentum                         | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| Nesterov's Gradient Acceleration        | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| AdaGrad(Adaptive Gradient Descent)      | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| AdaDelta                                | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| RMS-Prop (Root Mean Square Propagation) | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| Adam(Adaptive Moment Estimation)        | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| Adamw                                   | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+
+| Model                                   | Jax/Flax |  Flux   | Config  | Paper    | Animations | Samples |
+|:--------------------------------------- |:--------:|:-------:|:-------:|:-------- |:----------:|:-------:|
+| Gradient Descent                        | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| Stochastic Gradient Descent             | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| Batch Gradient Descent                  | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| Mini-Batch Gradient Descent             | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| SGD w/ Momentum                         | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| Nesterov's Gradient Acceleration        | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| AdaGrad(Adaptive Gradient Descent)      | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| AdaDelta                                | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| RMS-Prop (Root Mean Square Propagation) | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| Adam(Adaptive Moment Estimation)        | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| Adamw                                   | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+
 
 ----
 <h2 align="center">
   <b>Second Order Results</b><br>
 </h2>
 
-
-| Model                                   | PyTorch | Jax/Flax |  Flux   | Config  | Paper    | Animations | Samples |
-|:--------------------------------------- |:-------:|:--------:|:-------:|:-------:|:-------- |:----------:|:-------:|
-| Newton's Method                         | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| Secant Method                           | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| Davidson-Fletcher-Powell (DFP)          | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| Broyden-Fletcher-Goldfarb-Shanno (BFGS) | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| Limited-memory BFGS (L-BFGS)            | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| Newton-Raphson                          | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| Levenberg-Marquardt                     | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| Powell's method                         | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| Steepest Descent                        | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| Truncated Newton                        | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
-| Fletcher-Reeves                         | &#9744; | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| Model                                   | Jax/Flax |  Flux   | Config  | Paper    | Animations | Samples |
+|:--------------------------------------- |:--------:|:-------:|:-------:|:-------- |:----------:|:-------:|
+| Newton's Method                         | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| Secant Method                           | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| Davidson-Fletcher-Powell (DFP)          | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| Broyden-Fletcher-Goldfarb-Shanno (BFGS) | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| Limited-memory BFGS (L-BFGS)            | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| Newton-Raphson                          | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| Levenberg-Marquardt                     | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| Powell's method                         | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| Steepest Descent                        | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| Truncated Newton                        | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
+| Fletcher-Reeves                         | &#9744;  | &#9744; | &#9744; | [Link]() |  **TBA**   | **TBA** |
 
 ---
 ### Citation
